@@ -54,17 +54,6 @@ aml_config/
 credentials.json
 service-account.json
 
-# Data
-data/*.csv
-data/*.tsv
-data/*.json
-data/*.jsonl
-data/*.parquet
-data/*.pickle
-data/*.pkl
-data/*.h5
-data/*.hdf5
-
 # Logs
 logs/
 *.log
