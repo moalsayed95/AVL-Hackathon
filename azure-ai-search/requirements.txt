@@ -1,0 +1,11 @@
+openai
+numpy
+pandas
+azure-identity
+azure-search-documents==11.6.0b9
+python-dotenv
+pillow
+azure-ai-evaluation
+ipykernel
+pandas
+jinja2
